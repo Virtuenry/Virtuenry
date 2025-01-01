@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou Henrique.
 
-<!--
-**Virtuenry/Virtuenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub! Atualmente, estou em constante aprendizado de programação e utilizo o repositório [Sempre-Aprendendo](https://github.com/Virtuenry/Sempre-Aprendendo) para compartilhar meus estudos e progresso nos cursos que realizo. Nele, você encontrará uma visão clara do meu desenvolvimento técnico e das habilidades que adquiri até agora.
 
-Here are some ideas to get you started:
+Embora o repositório possa não conter a linguagem ou biblioteca específica que sua empresa utiliza, sou altamente adaptável e direciono meus estudos para atender às demandas e necessidades do ambiente em que me insiro. Estou sempre disposto a aprender e me aprimorar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Obrigado pela visita!
+
+---
+
+<div align="center">
+  <a href="https://github.com/Virtuenry">
+    <img src="https://skillicons.dev/icons?i=nodejs,js" />
+  </a>
+  
+  <sup>Icones fornecidos por [skillicons](https://skillicons.dev)</sup>
+</div>
